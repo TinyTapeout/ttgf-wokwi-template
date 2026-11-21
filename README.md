@@ -1,5 +1,6 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg) ![](../../workflows/fpga/badge.svg)
 # ALU 3
+# Main
 # Tiny Tapeout Wokwi Project Template
 
 - [Read the documentation for project](docs/info.md)
